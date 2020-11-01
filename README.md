@@ -12,7 +12,8 @@ En la primera parte del proyecto, nos vamos a centrar en realizar la limpieza de
 En la segunda parte, vamos a demostrar si se cumple una hipótesis creada a través de la visualización de datos con la ayuda de gráficos y realizaremos un Storytelling para comentar el análisis de dicha hipótesis y las conclusiones finales.
 
 **Hipótesis:**
-_Australia es el país donde se produce el mayor número de ataques de tiburones debido a que es lugar donde más surfistas practican este deporte, según confirma Ironhack News._
+
+**_Australia es el país donde se produce el mayor número de ataques de tiburones debido a que es lugar donde más surfistas practican este deporte, según confirma Ironhack News._**
 
 # STORYTELLING 
 
