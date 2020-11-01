@@ -3,7 +3,7 @@
 
 ![shark_attack](https://github.com/sonia-quintanar/data-cleaning-pandas/blob/main/src/shark_attack.jpg)
 
-**Descripción del proyecto**
+# Descripción del proyecto
 
 Este proyecto consta de dos partes:
 
@@ -14,5 +14,5 @@ En la segunda parte, vamos a demostrar si se cumple una hipótesis creada a trav
 **Hipótesis:**
 _Australia es el país donde se produce el mayor número de ataques de tiburones debido a que es lugar donde más surfistas practican este deporte, según confirma Ironhack News._
 
-**STORYTELLING**
+# STORYTELLING 
 
